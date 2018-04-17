@@ -1,5 +1,5 @@
 /******************************************************************************
-SparkFunLSM6DS3.h
+LSM6DS3.h
 LSM6DS3 Arduino and Teensy Driver
 
 Marshall Taylor @ SparkFun Electronics
